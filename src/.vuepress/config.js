@@ -57,7 +57,11 @@ module.exports = {
       {
         title: "Guide",
         collapsable: false,
-        children: ["/guide/asset-handling", "/guide/using-vue"],
+        children: [
+          "/guide/asset-handling",
+          "/guide/using-vue",
+          "/guide/secret-feature",
+        ],
       },
     ],
   },
