@@ -5,6 +5,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: "Workflow Documentation",
+  base: "/docs/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
